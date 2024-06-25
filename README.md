@@ -1,1 +1,1 @@
-# WordPress-Tailwind-Boilerplate
+# WordPress Tailwind Boilerplate
